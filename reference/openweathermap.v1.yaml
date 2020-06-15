@@ -272,4 +272,5 @@ components:
       type: apiKey
       in: query
       name: appid
+      description: ''
 security: []
